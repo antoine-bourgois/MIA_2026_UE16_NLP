@@ -1,16 +1,27 @@
 # MIA_2026_UE16_NLP
-Course materials for NLP, taught as part of the Master Management et IA at Dauphine-PSL, Fall 2026.
 
-## Jeux de données
+Course materials for the **Introduction to Natural Language Processing (NLP)** course, taught as part of the **Master Management et IA** at **Dauphine-PSL**, Fall 2026.
 
-### Romans Francophones
+## Course Slides
 
-[Gallica](https://huggingface.co/datasets/AntoineBourgois/Gallica_Hors-d-Usage_cleaned)
+The presentation slides for the course are available in the [`slides/`](slides/) directory.
 
-This dataset is a cleaned and augmented version of Hors d’usage: Curated French Fiction from Gallica, 1800–1950, a corpus curated by Jean Barré from digitized works available through the Bibliothèque nationale de France's Gallica digital library.
+## Practical Exercises and Code
 
-### Avis Lecteurs Goodreads
+The practical exercises (Travaux Pratiques) and associated source code are available in the [`code/`](code/) directory.
 
-[Avis Goodreads](https://huggingface.co/datasets/AntoineBourgois/goodreads-books-reviews)
+[Browse the code on GitHub](https://github.com/antoine-bourgois/MIA_2026_UE16_NLP/tree/main/code).
 
-A dataset of Goodreads book reviews designed for rating prediction, review analysis, recommendation systems, and natural language processing tasks.
+## Datasets
+
+### French Fiction
+
+[Gallica: French Fiction](https://huggingface.co/datasets/AntoineBourgois/Gallica_Hors-d-Usage_cleaned)
+
+A cleaned and augmented version of *Hors d’usage: Curated French Fiction from Gallica, 1800–1950*, a corpus curated by Jean Barré from digitized literary works available through the French National Library's Gallica digital library (Bibliothèque nationale de France).
+
+### Goodreads Book Reviews
+
+[Goodreads Book Reviews](https://huggingface.co/datasets/AntoineBourgois/goodreads-books-reviews)
+
+A dataset of Goodreads book reviews designed for tasks such as rating prediction, review analysis, recommendation systems, and other natural language processing applications.
