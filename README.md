@@ -10,8 +10,6 @@ The presentation slides for the course are available in the [`slides/`](slides/)
 
 The practical exercises (Travaux Pratiques) and associated source code are available in the [`code/`](code/) directory.
 
-[Browse the code on GitHub](https://github.com/antoine-bourgois/MIA_2026_UE16_NLP/tree/main/code).
-
 ## Datasets
 
 ### French Fiction
