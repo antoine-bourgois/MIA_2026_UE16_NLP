@@ -29,7 +29,7 @@ A dataset of Goodreads book reviews designed for tasks such as rating prediction
 ### Note de recherche
 
 - 5 pages minimum, au format article scientifique.
-- Rédaction en LaTeX.
+- Rédaction en LaTeX. ([https://plmlatex.math.cnrs.fr/login](https://plmlatex.math.cnrs.fr/login))
 - Travail individuel ou en groupe de 2 à 3 étudiants.
 - Notebook Python autonome et reproductible (résultats, tableaux et figures).
 
