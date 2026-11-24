@@ -37,7 +37,7 @@ A dataset of Goodreads book reviews designed for tasks such as rating prediction
 
 Choisir une problématique dans l'un des domaines suivants :
 
-- **Humanités computationnelles** : littérature, sociologie, sciences politiques, etc.
+- **Humanités computationnelles** : littérature, sociologie, sciences politiques, droit, etc.
 - **Marketing**.
 
 ### Planning
