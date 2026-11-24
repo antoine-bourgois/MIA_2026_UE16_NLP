@@ -58,4 +58,3 @@ Choisir une problématique dans l'un des domaines suivants :
 - **Résultats** : tableaux, graphiques et indicateurs de performance.
 - **Analyse** : interprétation des résultats et étude des erreurs.
 - **Limites** : biais, limites des données et problèmes méthodologiques.
-- 
